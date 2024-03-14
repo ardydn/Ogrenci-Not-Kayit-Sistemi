@@ -1,0 +1,1 @@
+SQL alt yapısıyla gerçekleştirdiğim projemde kullanıcılar arası mesajlaşma, sisteme giriş yapan kullanıcının bilgilerini getirme işlemini ''User Login Management'' sistemini,  duyuru oluşturmayı,  alınan sınav notlarına  göre öğrencinin durumunu SQL üzerinde değiştirme gibi pek çok farklı başlık üzerinedir.
