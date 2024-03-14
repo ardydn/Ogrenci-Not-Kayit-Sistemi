@@ -1,0 +1,15 @@
+C:\Users\ARDA\source\repos\OgrenciNotKayit2\bin\Debug\OgrenciNotKayit2.exe.config
+C:\Users\ARDA\source\repos\OgrenciNotKayit2\bin\Debug\OgrenciNotKayit2.exe
+C:\Users\ARDA\source\repos\OgrenciNotKayit2\bin\Debug\OgrenciNotKayit2.pdb
+C:\Users\ARDA\source\repos\OgrenciNotKayit2\obj\Debug\OgrenciNotKayit2.csproj.AssemblyReference.cache
+C:\Users\ARDA\source\repos\OgrenciNotKayit2\obj\Debug\OgrenciNotKayit2.Properties.Resources.resources
+C:\Users\ARDA\source\repos\OgrenciNotKayit2\obj\Debug\OgrenciNotKayit2.csproj.GenerateResource.cache
+C:\Users\ARDA\source\repos\OgrenciNotKayit2\obj\Debug\OgrenciNotKayit2.csproj.CoreCompileInputs.cache
+C:\Users\ARDA\source\repos\OgrenciNotKayit2\obj\Debug\OgrenciNotKayit2.exe
+C:\Users\ARDA\source\repos\OgrenciNotKayit2\obj\Debug\OgrenciNotKayit2.pdb
+C:\Users\ARDA\source\repos\OgrenciNotKayit2\obj\Debug\OgrenciNotKayit2.frmOgrencınotsıstemı.resources
+C:\Users\ARDA\source\repos\OgrenciNotKayit2\obj\Debug\OgrenciNotKayit2.frmOgretmen.resources
+C:\Users\ARDA\source\repos\OgrenciNotKayit2\obj\Debug\OgrenciNotKayit2.frmDuyuruolusture.resources
+C:\Users\ARDA\source\repos\OgrenciNotKayit2\obj\Debug\OgrenciNotKayit2.frmDuyurulistesi.resources
+C:\Users\ARDA\source\repos\OgrenciNotKayit2\obj\Debug\OgrenciNotKayit2.frmMesajlar.resources
+C:\Users\ARDA\source\repos\OgrenciNotKayit2\obj\Debug\OgrenciNotKayit2.frmOgrenci.resources
